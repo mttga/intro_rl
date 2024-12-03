@@ -1,0 +1,6 @@
+gym==0.26.2
+matplotlib
+scikit-image
+torch>=2.0
+numpy<=1.28.0
+pygame==2.6.1
