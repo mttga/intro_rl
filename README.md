@@ -10,7 +10,7 @@
 
 ## Installation  
 
-Download the repository, create a new virtual environment with `python>=3.10`, and install the requirements:  
+Download the repository, create a new virtual environment with `python>=3.11`, and install the requirements:  
 
 ```bash
 pip install -r requirements.txt
